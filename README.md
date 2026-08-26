@@ -1,2 +1,2 @@
-# abdulmalikportfolio
-A portfolio website to showcase my works and skills built with react.js
+# bento grid challenge
+A website that showcase the frontend mentor bento grid challenge
